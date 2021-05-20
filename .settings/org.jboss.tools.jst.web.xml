@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file-systems model-entity="FileSystems" workspace-home="./src/main/WebContent/WEB-INF">
+ <file-system NAME="web-locadora"
+  location="C:/Workspace Eclipse/web-locadora" model-entity="FileSystemFolder"/>
+ <file-system NAME="WEB-INF" location="%workspace.home%" model-entity="FileSystemFolder"/>
+ <file-system NAME="WEB-ROOT" location="%workspace.home%/.." model-entity="FileSystemFolder"/>
+ <file-system NAME="lib" location="%workspace.home%/lib" model-entity="FileSystemFolder"/>
+ <file-system NAME="src" location="%workspace.home%/../../java" model-entity="FileSystemFolder"/>
+ <web model-entity="JstWeb"/>
+</file-systems>
